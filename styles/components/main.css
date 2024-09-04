@@ -1,0 +1,55 @@
+
+@import url(../root.css);
+
+.article_contenido {
+    padding: 20px;
+    background-color: #fff;
+    margin-top: 20px;
+}
+
+.article_contenido h2 {
+    font-size: 20px;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+}
+
+.article_contenido ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.article_contenido ul li {
+    margin-bottom: 10px;
+}
+
+/* Latest News Section */
+.latest-news {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.latest-news h3 {
+    font-size: 18px;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+}
+
+.latest-news ul {
+    list-style: none;
+    padding: 0;
+}
+
+.latest-news ul li {
+    margin-bottom: 10px;
+}
+
+.latest-news ul li h4 {
+    font-size: 14px;
+    margin: 0;
+    color: #999;
+}
+
+.latest-news ul li p {
+    margin: 5px 0 0;
+}
